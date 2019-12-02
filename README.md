@@ -15,4 +15,5 @@ I am sure this could be true for most works as a statistical probability? but I 
 Please let me know if I am perhaps interpreting the law incorrectly... 
 
 From: https://en.wikipedia.org/wiki/Zipf%27s_law
+
   ``` For example, in the Brown Corpus of American English text, the word the is the most frequently occurring word, and by itself accounts for nearly 7% of all word occurrences (69,971 out of slightly over 1 million). True to Zipf's Law, the second-place word of accounts for slightly over 3.5% of words (36,411 occurrences), followed by and (28,852). Only 135 vocabulary items are needed to account for half the Brown Corpus.[1]```
